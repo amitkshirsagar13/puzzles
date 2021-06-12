@@ -1,0 +1,19 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitkshirsagar13/puzzles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitkshirsagar13/puzzles/issues"
+  },
+  "homepage": "https://github.com/amitkshirsagar13/puzzles#readme"
+}
